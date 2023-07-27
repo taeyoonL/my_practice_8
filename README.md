@@ -10,3 +10,4 @@
 
 # 실행 화면
 
+![ezgif com-video-to-gif (8)](https://github.com/taeyoonL/navigation_controller_1/assets/132141316/1ae2103e-012d-4fef-896c-d2e459af70aa)
